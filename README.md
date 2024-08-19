@@ -27,7 +27,7 @@ Desenvolver uma API RESTful usando ASP.NET Core que:
 - As tabelas podem ser criadas usando migrations do Entity Framework.
 - Deve conter alguns dados pré-populados (seed) para testes.
 
-#### 3. Frontend (React)
+#### 3. Frontend (React) **(Opcional)**
 Criar uma aplicação simples em React que:
 
 - Liste as tarefas na tela inicial.
@@ -39,7 +39,8 @@ Criar uma aplicação simples em React que:
 Utilize React Hooks e, se necessário, algum state management como Context API.
 
 #### 4. Extras (Diferenciais):
-- Implementação de autenticação (opcional).
+- Front-end
+- Implementação de autenticação.
 - Autenticação.
 - Testes unitários para o backend.
 - Deploy da aplicação em um ambiente cloud (Azure, AWS, Heroku, etc.).
